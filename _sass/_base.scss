@@ -659,9 +659,16 @@ footer.sticky-bottom {
 .education {
   margin-top: 2rem;
 
+  .list-group {
+    padding-left: 0;
+    margin-bottom: 0;
+  }
+
   .list-group-item {
     background-color: var(--global-bg-color);
     border-color: var(--global-divider-color);
+    padding-left: 0;
+    padding-right: 0;
 
     .row {
       display: flex;
