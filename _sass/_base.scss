@@ -670,6 +670,11 @@ footer.sticky-bottom {
     }
   }
 
+  .col-auto {
+    min-width: 160px;
+    flex: 0 0 auto;
+  }
+
   .abbr {
     abbr {
       display: inline-block;

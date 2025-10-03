@@ -16,15 +16,15 @@ social: false # includes social icons at the bottom of the page
 
 education:
   - degree: "Ph.D."
-    institution: "School of Artificial Intelligence, SJTU"
+    institution: "School of Artificial Intelligence, Shanghai Jiao Tong University"
     major: "Computer Science and Engineering"
     time: "2025.04 - Now"
   - degree: "Master"
-    institution: "School of Computer Science, SJTU"
+    institution: "School of Computer Science, Shanghai Jiao Tong University"
     major: "Computer Science and Engineering"
     time: "2023.09 - 2025.04"
   - degree: "Undergraduate"
-    institution: "School of Software, SJTU"
+    institution: "School of Software, Shanghai Jiao Tong University"
     major: "Software Engineering"
     time: "2019.09 - 2023.06"
 ---
