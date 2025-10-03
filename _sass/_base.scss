@@ -659,6 +659,17 @@ footer.sticky-bottom {
 .education {
   margin-top: 2rem;
 
+  .list-group-item {
+    background-color: var(--global-bg-color);
+    border-color: var(--global-divider-color);
+
+    .row {
+      display: flex;
+      flex-wrap: nowrap;
+      align-items: flex-start;
+    }
+  }
+
   .abbr {
     abbr {
       display: inline-block;
@@ -669,6 +680,7 @@ footer.sticky-bottom {
       padding-bottom: 0.25rem;
       color: white;
       font-weight: bold;
+      white-space: nowrap;
 
       a {
         color: white;
@@ -678,6 +690,11 @@ footer.sticky-bottom {
         }
       }
     }
+  }
+
+  .title {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
   }
 }
 

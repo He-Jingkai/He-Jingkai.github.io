@@ -19,15 +19,15 @@ education:
   - degree: "Ph.D."
     institution: "School of Artificial Intelligence, SJTU"
     major: "Computer Science and Engineering"
-    time: "2025 - Now"
+    time: "2025.04 - Now"
   - degree: "Master"
     institution: "School of Computer Science, SJTU"
     major: "Computer Science and Engineering"
-    time: "2023 - 2025"
+    time: "2023.09 - 2025.04"
   - degree: "Undergraduate"
     institution: "School of Software, SJTU"
     major: "Software Engineering"
-    time: "2019 - 2023"
+    time: "2019.09 - 2023.06"
 ---
 
 I am a first-year Ph.D. student in the Institute of Parallel and Distributed Systems (IPADS) and School of Artificial Intelligence (SAI) at Shanghai Jiao Tong University University, advised by Haibo Chen and Dong Du.

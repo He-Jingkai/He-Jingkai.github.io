@@ -3,14 +3,14 @@
     {% for edu in page.education %}
       <li class="list-group-item">
         <div class="row">
-          <div class="col-xs-2 cl-sm-2 col-md-auto text-left" style="width: auto;">
+          <div class="col-auto">
             <div class="abbr">
               <abbr class="badge">{{ edu.time }}</abbr>
             </div>
           </div>
-          <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
-            <h6 class="title font-weight-bold ml-1 ml-md-4">{{ edu.degree }}</h6>
-            <table class="table-cv ml-1 ml-md-4 institution">
+          <div class="col">
+            <h6 class="title font-weight-bold">{{ edu.degree }}</h6>
+            <table class="table-cv institution">
               <tbody>
                 <tr>
                   <td style="vertical-align: top; text-align: center" class="institution">
