@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Phd. candidate at <a href='http://ipads.se.sjtu.edu.cn'>IPADS</a> and <a href='https://soai.sjtu.edu.cn'>School of Artificial Intelligence, SJTU</a>.
+subtitle: Ph.D. candidate at <a href='http://ipads.se.sjtu.edu.cn'>IPADS</a> and <a href='https://soai.sjtu.edu.cn'>School of Artificial Intelligence, SJTU</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jk_photo.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>hjk020101@sjtu.edu.cn</p>
@@ -14,6 +14,20 @@ profile:
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
+
+education:
+  - degree: "Ph.D."
+    institution: "School of Artificial Intelligence, SJTU"
+    major: "Computer Science and Engineering"
+    time: "2025.04 - Now"
+  - degree: "Master"
+    institution: "School of Computer Science, SJTU"
+    major: "Computer Science and Engineering"
+    time: "2023.09 - 2025.04"
+  - degree: "Undergraduate"
+    institution: "School of Software, SJTU"
+    major: "Software Engineering"
+    time: "2019.09 - 2023.06"
 ---
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

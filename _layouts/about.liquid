@@ -56,6 +56,14 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
+    <!-- Education -->
+    {% if page.education %}
+      <h2>
+        <a style="color: inherit">education</a>
+      </h2>
+      {% include education.liquid %}
+    {% endif %}
+
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
