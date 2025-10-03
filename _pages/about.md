@@ -8,8 +8,7 @@ profile:
   align: right
   image: jk_photo.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>hjk020101@sjtu.edu.cn</p>
+  more_info:
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -32,5 +31,6 @@ education:
 
 I am a first-year Ph.D. student in the Institute of Parallel and Distributed Systems (IPADS) and School of Artificial Intelligence (SAI) at Shanghai Jiao Tong University University, advised by Haibo Chen and Dong Du.
 
-My research focuses on designing efficient training and inference systems for Large Language Models (LLMs) and developing high-performance operating systems (OS kernels).
+My research focuses on designing efficient **training and inference systems for Large Language Models (LLMs)** and developing high-performance operating systems (**OS kernels**).
 
+Reach out to me at hjk020101@sjtu.edu.cn.
