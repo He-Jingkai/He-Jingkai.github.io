@@ -23,7 +23,7 @@ education:
     institution: "School of Computer Science, Shanghai Jiao Tong University"
     major: "Computer Science and Engineering"
     time: "2023.09 - 2025.04"
-  - degree: "Undergraduate"
+  - degree: "Bachelor"
     institution: "School of Software, Shanghai Jiao Tong University"
     major: "Software Engineering"
     time: "2019.09 - 2023.06"
